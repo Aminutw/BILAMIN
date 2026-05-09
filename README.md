@@ -1,7 +1,7 @@
 # BILAMIN
 BIL-AMIN Integrated Services- portfolio of Architectural Designs and Projects
 export default function BilaminArchitectureWebsite() { return ( <div className="min-h-screen bg-gray-100 text-gray-800 font-sans"> {/* Hero Section */} <section className="bg-black text-white py-20 px-6"> <div className="max-w-6xl mx-auto text-center"> <h1 className="text-5xl font-bold mb-4">BIL-AMIN Integrated Services</h1> <p className="text-xl mb-6"> Architectural Design • 3D Visualization • Construction Solutions </p> <a
-href="https://wa.me/2340000000000"
+href="https://wa.me/2349076988582"
 className="bg-white text-black px-6 py-3 rounded-2xl font-semibold shadow-lg hover:scale-105 transition"
 > Contact Us on WhatsApp </a> </div> </section>
 
@@ -82,7 +82,7 @@ className="bg-white text-black px-6 py-3 rounded-2xl font-semibold shadow-lg hov
 
       <div className="space-y-3 text-lg">
         <p>📞 +234 XXX XXX XXXX</p>
-        <p>📧 yourcompany@email.com</p>
+        <p>📧 bilamin08@email.com</p>
         <p>📍 Bauchi, Nigeria</p>
       </div>
     </div>
